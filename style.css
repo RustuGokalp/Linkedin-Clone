@@ -1,0 +1,238 @@
+.navbarbg {
+  height: 55px;
+  background-color: white;
+  }
+.border-bottom-grey {
+ border-bottom: 1px solid rgba(223, 207, 207, 0.9);
+}
+.border-top-grey {
+  border-top: 1px solid rgba(223, 207, 207, 0.9);
+}
+.linkedin-icon {
+  color: #0a66c2;
+}
+input.searche {
+  height: 36px;
+  max-width: 500px;
+  background-color: #eef3f8;
+  border: 0;
+  margin-left: 1rem;
+  }
+  input.searche::placeholder {
+  font-size: 14px;
+  color: gray;
+  background-image: url(/linkedin-clone/svgs/search-solid.svg);
+  background-repeat: no-repeat;
+  background-size: 8%;
+  padding-left: 10%;
+  }
+.navbar-brand {
+  margin-left: 9rem;
+}
+.nav-list {
+  margin-left: 10.5rem;
+}
+  .body {
+  background-color: #f3f2ef;
+  }
+.font-weight-bold {
+  font-size: 13px; 
+  font-weight: bold
+}
+.small-font-size {
+  font-size: 14px;
+}
+.blue-small-font-size {
+  font-size: 14px;
+  color: #0a66c2;
+}
+.middle-font-size {
+  font-size: 1.2rem;
+}
+.photo-button {
+  fill: #70B5F9;
+}
+.video-button {
+  fill: #7FC15E;
+}
+.activity-button {
+  fill: #E7A33E;
+}
+.writing-button {
+  fill: #F5987E;
+}
+.article-name {
+  font-weight: lighter;
+  font-size: 13px;
+  color: #5f5f5f;
+}
+.card-bottom {
+  color: #0a66c2; 
+  font-size: 15px; 
+  margin-top: -25px
+}
+.menutext {
+  font-size: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: gray;
+  margin-top: 5px;
+  font-weight: lighter;
+  }
+.profile-photo {
+  border: 2px solid white;
+  }
+.summary {
+  font-size: 12px;
+  font-weight: 600;
+  text-align: center;
+  }
+.card-header-1 {   
+  background-image: url(https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Falejandrocremades%2Ffiles%2F2018%2F12%2Fbusiness-3605367_1920-1200x741.jpg);
+  height: 53px;
+  }
+.content::placeholder {
+  padding-left: 30px;
+  }
+.menutext:hover {
+  color: black;
+  }
+  
+button.mediatext {
+  color: #5f5f5f;
+  }
+  
+button.mediatext:hover {
+  color: #5f5f5f;
+  }
+  
+.mediatext {
+  font-size: 15px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #5f5f5f;
+  }
+  
+i {
+  color: gray;
+  margin-top: 8px;
+  }
+i:hover {
+  color: black;
+  }
+  
+input.content {
+  border-radius: 40px;
+  height: 45px;
+  }
+input.content::placeholder {
+  font-weight: bolder;
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url(/linkedin-clone/svgs/edit-regular.svg);
+  background-repeat: no-repeat;
+  background-size: auto;
+  }
+  
+div.card {
+  border-radius: 10px;
+  }
+  
+.header {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  font-weight: bolder;
+  }
+  
+.view {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 11px;
+  font-weight: bold;
+  color: #5f5f5f;
+  }
+.components {
+  font-size: 13px;
+  font-weight: 700;
+  }
+.page-name {
+  font-size: 15px;
+  font-weight: bold;
+  margin-top: -35px;
+  margin-left: 37px;
+  }
+.page-notification {
+  font-size: 13px;
+  font-weight: bold;
+  color: gray;
+  margin-left: 38px;
+  }
+.left-pannel-topic {
+  font-size: 13px; 
+  color: #5f5f5f
+  }
+.categories {
+  font-size: 13px;
+  font-weight: bold;
+  color: #0a66c2;
+  }
+  
+li {
+  font-size: 14px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: bold;
+  }
+  
+.link {
+  font-size: 12px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+   Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: #5f5f5f;
+  }
+  
+.aligned-middle-1 {
+  margin-left: -6.2rem;
+  }
+.aligned-bottom-1 {
+  margin-left: -4.75rem;
+  }
+.user-summary {
+  margin-left: -7rem;
+  }
+.author-summary {
+  margin-left: -7rem;
+  }
+.author-subtitle {
+  font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 13px; 
+  color: #474747;
+  }
+.postphoto {
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  }
+.posttext {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: bold;
+  font-size: 14px;
+  margin-left: 8px;
+  }
+.message-box {
+  height: 50px;
+  position: -webkit-sticky;
+  border-radius: 5px;
+  margin-left: auto;
+  right: 15px; 
+  width: 300px;
+  }
+.message-text {
+  font-size: 13px; 
+  font-weight: bold;
+  font-family:Arial, Helvetica, sans-serif;
+  margin-right: 50px;
+  }
+.nav-m {
+  margin-left: -10px;
+}
